@@ -3,7 +3,6 @@ Alert is a video game that simulates the life of someone in a war-torn area. Pla
 
 Switch on the audio system, as the voice acting in this game is on point. Play it on full screen to get the maximum enjoyment. Interact with boxes, buildings, characters and rubble to get the most out of the game.
 
-To run this game, run ./Build/YorkUHacks.exe
 
 ![menu](/images/2771015menu.png)
 ![people](/images/2de32e0people.png)
